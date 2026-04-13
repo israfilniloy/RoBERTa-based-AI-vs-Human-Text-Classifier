@@ -95,22 +95,6 @@ Input Text
 
 ---
 
-## 📁 Repository Structure
-
-```
-RoBERTa-AI-Human-Classifier/
-│
-├── roberta.ipynb                  # Main notebook: training + evaluation
-├── requirements.txt               # Python dependencies
-├── README.md                      # This file
-├── LICENSE                        # MIT License
-│
-└── results/
-    └── (confusion matrix, training logs saved here)
-```
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
